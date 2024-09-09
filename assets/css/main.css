@@ -1077,12 +1077,16 @@ section,
 .portfolio .portfolio-filters li {
   cursor: pointer;
   display: inline-block;
-  padding: 0;
+  padding: 10px;
   font-size: 18px;
   font-weight: 500;
   margin: 0 10px;
   line-height: 1;
-  margin-bottom: 5px;
+  margin-bottom: 7px;
+  border-style: ridge;
+  border-width: 1px;
+  border-radius: 20px;
+  border-color: #fafafa;
   transition: all 0.3s ease-in-out;
 }
 
