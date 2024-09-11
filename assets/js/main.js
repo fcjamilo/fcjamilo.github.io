@@ -6,7 +6,7 @@
 * License: https://bootstrapmade.com/license/
 */
 
-const textArray = ["An IT Enthusiast", "An IT Student", "A Web Developer"];
+const textArray = ["An IT Enthusiast", "An IT Student", "A Future Web Developer"];
   let index = 0;
   let charIndex = 0;
   let currentText = '';
