@@ -131,9 +131,7 @@ h6 {
 
 #nname {
   display: flex;
-  justify-content: space-between;
-  width: 80%;
-  padding: 10px;
+  justify-content: center;
 }
 
 .left, .right {
@@ -1376,11 +1374,4 @@ section,
 .contact .info-item:hover i {
   background: var(--accent-color);
   color: var(--contrast-color);
-}
-
-/*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
 }
